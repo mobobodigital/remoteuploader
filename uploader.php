@@ -28,7 +28,7 @@
 </style>
 
 <script>
-	console.log("%c%s","color: #ffffff; background: #000000; font-size: 5vw;","Binit's Remote Uploader");
+	console.log("%c%s","color: #ffffff; background: #000000; font-size: 5vw;","Mobo's Remote Uploader");
 </script>
 </head>
 <body>
